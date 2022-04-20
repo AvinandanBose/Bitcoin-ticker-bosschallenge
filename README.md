@@ -1,6 +1,6 @@
-# bitcoin_ticker_bosschallenge
+# Bitcoin ticker bosschallenge
 
-A new Flutter project.
+This is an app showing Bit coin currency rate update through api .
 
 ## Getting Started
 
